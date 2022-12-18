@@ -1,4 +1,3 @@
-"""Задача 2"""
 x = int(input())
 y = int(input())
 if x > 0 and y > 0:
